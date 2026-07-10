@@ -1,4 +1,4 @@
-# 🌾 AgroAlert AI+
+#  AgroAlert AI+
 
 **L'assistant agricole intelligent pour les producteurs**
 

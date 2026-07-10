@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136136692261",
+    "project_id": "agroalert-ai-plus",
+    "storage_bucket": "agroalert-ai-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136136692261:android:7f0d7930eaf338000265cc",
+        "android_client_info": {
+          "package_name": "com.example.agroalert_ai_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMe7u9ZfiA9rYi0Dl_NmqoSp1rwV-t24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
